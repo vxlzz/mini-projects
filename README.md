@@ -8,10 +8,11 @@ These projects are mostly small modules or utilities that I have built for educa
 
 ### HTML
 
-| Project                                                              | Description                               | Skills                                                                  |
-| -------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------- |
-| [Single Page CV](https://roadmap.sh/projects/single-page-cv)         | A simple CV template using only HTML      | Creating structured HTML in a clean, semantic manner.                   |
-| [Basic HTML Website](https://roadmap.sh/projects/basic-html-website) | A simple HTML website with multiple pages | Structuring a website with different sections i.e. header, footer, nav. |
+| Project                                                                          | Description                               | Skills                                                                  |
+| -------------------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------- |
+| [Single Page CV](https://roadmap.sh/projects/single-page-cv)                     | A simple CV template using only HTML      | Creating structured HTML in a clean, semantic manner.                   |
+| [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)             | A simple HTML website with multiple pages | Structuring a website with different sections i.e. header, footer, nav. |
+| [Pricing Comparison Table](https://roadmap.sh/projects/pricing-comparison-table) | A simple HTML table                       | Displaying data in HTML using a real, accessible table.                 |
 
 ### CSS
 
