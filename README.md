@@ -14,6 +14,7 @@ These projects are mostly small modules or utilities that I have built for educa
 | [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)             | A simple HTML website with multiple pages | Structuring a website with different sections i.e. header, footer, nav. |
 | [Pricing Comparison Table](https://roadmap.sh/projects/pricing-comparison-table) | A simple HTML table                       | Displaying data in HTML using a real, accessible table.                 |
 | [Blog Post Page](https://roadmap.sh/projects/blog-post-page)                     | A semantic HTML page                      | Exploring semantic HTML                                                 |
+| [Contact Form](https://roadmap.sh/projects/contact-form)                         | A basic contact form                      | An accessible HTML form with all the necessary attributes               |
 
 ### CSS
 
