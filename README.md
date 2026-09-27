@@ -15,6 +15,7 @@ These projects are mostly small modules or utilities that I have built for educa
 | [Pricing Comparison Table](https://roadmap.sh/projects/pricing-comparison-table) | A simple HTML table                       | Displaying data in HTML using a real, accessible table.                 |
 | [Blog Post Page](https://roadmap.sh/projects/blog-post-page)                     | A semantic HTML page                      | Exploring semantic HTML                                                 |
 | [Contact Form](https://roadmap.sh/projects/contact-form)                         | A basic contact form                      | An accessible HTML form with all the necessary attributes               |
+| [Photo Showcase](https://roadmap.sh/projects/photo-showcase)                     | A basic pohot showcase with video         | Accessible images, and video                                            |
 
 ### CSS
 
