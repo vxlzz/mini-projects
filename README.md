@@ -25,11 +25,10 @@ These projects are mostly small modules or utilities that I have built for educa
 | [Changelog Component](https://roadmap.sh/projects/changelog-component)    | A simple changelog component for a website                   | Applying positioning and layout via CSS                                                           |
 | [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)        | A bunch of testimonial cards from customers                  | Applying different positioning and layout techniques with CSS                                     |
 | [Datepicker UI](https://roadmap.sh/projects/datepicker-ui)                | A simple datepicker using HTML and CSS only (non-functional) | More layout, positioning and styling technique with CSS                                           |
-| Accessible Form UI                                                        | A form including various different fields                    | Focusing on accessibility, readability and good user experience                                   |
 | [Image Grid Layout](https://roadmap.sh/projects/image-grid)               | Creating a simple image grid with CSS                        | Using the CSS grid layout to create more involved layouts                                         |
 | [Tooltip UI](https://roadmap.sh/projects/tooltip-ui)                      | Creating dynamic tooltips                                    | Increasing interactivity with various elements without using JS, making use of transition effects |
 | [Oldagram](https://github.com/vxlzz/mini-projects/tree/main/CSS/Oldagram) | Practicing essential CSS skills                              | Populating page with JS and applying CSS                                                          |
-| [Accessible Form UI]                                                      | A form only using HTML and CSS                               | Creating an accessible and easy to use form for all types of users                                |
+| [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui)      | A form only using HTML and CSS                               | Creating an accessible and easy to use form for all types of users                                |
 
 ### JavaScript
 
