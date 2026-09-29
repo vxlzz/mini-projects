@@ -29,6 +29,7 @@ These projects are mostly small modules or utilities that I have built for educa
 | [Image Grid Layout](https://roadmap.sh/projects/image-grid)               | Creating a simple image grid with CSS                        | Using the CSS grid layout to create more involved layouts                                         |
 | [Tooltip UI](https://roadmap.sh/projects/tooltip-ui)                      | Creating dynamic tooltips                                    | Increasing interactivity with various elements without using JS, making use of transition effects |
 | [Oldagram](https://github.com/vxlzz/mini-projects/tree/main/CSS/Oldagram) | Practicing essential CSS skills                              | Populating page with JS and applying CSS                                                          |
+| [Accessible Form UI]                                                      | A form only using HTML and CSS                               | Creating an accessible and easy to use form for all types of users                                |
 
 ### JavaScript
 

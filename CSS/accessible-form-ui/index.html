@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0" />
+    <title>Accessible Form UI</title>
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body>
+    <main>
+      <div class="form">
+        <form>
+          <label for="fname">Full Name</label>
+          <input
+            type="text"
+            id="fname"
+            name="fname"
+            placeholder="What should we call you?"
+            aria-required="true"
+          />
+          <label for="email">Email</label>
+          <input
+            class="invalid"
+            type="text"
+            id="email"
+            name="email"
+            placeholder="john@doe.com"
+            aria-required="true"
+            aria-invalid="true"
+          />
+          <p class="invalid">Email is already taken</p>
+          <label for="password">Enter Password</label>
+          <input
+            type="password"
+            id="password"
+            name="password"
+            placeholder="xxxxxxxx"
+            aria-required="true"
+          /><img class="eye" src="./assets/eye-fill.svg" />
+          <label for="cpassword">Confirm Password</label>
+          <input
+            type="cpassword"
+            id="cpassword"
+            name="cpassword"
+            placeholder="xxxxxxxx"
+            aria-required="true"
+          /><img class="eye" src="./assets/eye-fill.svg" />
+          <button type="submit" value="submit">Update Profile</button>
+        </form>
+      </div>
+      <div class="profile">
+        <div class="progress">50%</div>
+        <p>Profile Completeness</p>
+        <div class="completion">
+          <ul>
+            <li><span class="complete">Create Account</span></li>
+            <li><span class="complete">Update Roadmap Progress</span></li>
+            <li><span class="complete">Setup Public Profile</span></li>
+            <li>Complete your first project</li>
+            <li>Invite your Friends</li>
+          </ul>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
