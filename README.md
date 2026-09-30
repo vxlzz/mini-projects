@@ -32,7 +32,8 @@ These projects are mostly small modules or utilities that I have built for educa
 
 ### JavaScript
 
-| Project                                                      | Description                            | Skills                                                                        |
-| ------------------------------------------------------------ | -------------------------------------- | ----------------------------------------------------------------------------- |
-| [Simple Tabs](https://roadmap.sh/projects/simple-tabs)       | Creating simple tab functionality      | Basic DOM manipulation and event handling in JavaScript                       |
-| [Cookie Consent](https://roadmap.sh/projects/cookie-consent) | Create a simple cookie consent overlay | DOM Manip and event handling in JS, as well as utilizing local cookie storage |
+| Project                                                             | Description                            | Skills                                                                        |
+| ------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------- |
+| [Simple Tabs](https://roadmap.sh/projects/simple-tabs)              | Creating simple tab functionality      | Basic DOM manipulation and event handling in JavaScript                       |
+| [Cookie Consent](https://roadmap.sh/projects/cookie-consent)        | Create a simple cookie consent overlay | DOM Manip and event handling in JS, as well as utilizing local cookie storage |
+| [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder) | Small greeting helper                  | Writing basic functions                                                       |
