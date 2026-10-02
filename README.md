@@ -39,3 +39,4 @@ These projects are mostly small modules or utilities that I have built for educa
 | [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder)           | Small greeting helper                            | Writing basic functions                                                       |
 | [Temperature Converter](https://roadmap.sh/projects/js-temperature-converter) | Temperature Converter                            | Basic functions & formatting                                                  |
 | [Number Checker](https://roadmap.sh/projects/js-number-checker)               | Checks properties of a number and returns an obj | Basic operators                                                               |
+| [String Formatter](https://roadmap.sh/projects/js-string-formatter)           | Formats first and lastname.                      | String methods                                                                |
