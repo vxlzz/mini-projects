@@ -40,3 +40,4 @@ These projects are mostly small modules or utilities that I have built for educa
 | [Temperature Converter](https://roadmap.sh/projects/js-temperature-converter) | Temperature Converter                            | Basic functions & formatting                                                  |
 | [Number Checker](https://roadmap.sh/projects/js-number-checker)               | Checks properties of a number and returns an obj | Basic operators                                                               |
 | [String Formatter](https://roadmap.sh/projects/js-string-formatter)           | Formats first and lastname.                      | String methods                                                                |
+| [price-calculator](https://roadmap.sh/projects/js-price-calculator)           | Calculates tax and discount using functions      | Basic math functions                                                          |
