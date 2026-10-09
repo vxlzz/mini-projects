@@ -32,12 +32,13 @@ These projects are mostly small modules or utilities that I have built for educa
 
 ### JavaScript
 
-| Project                                                                       | Description                                      | Skills                                                                        |
-| ----------------------------------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------- |
-| [Simple Tabs](https://roadmap.sh/projects/simple-tabs)                        | Creating simple tab functionality                | Basic DOM manipulation and event handling in JavaScript                       |
-| [Cookie Consent](https://roadmap.sh/projects/cookie-consent)                  | Create a simple cookie consent overlay           | DOM Manip and event handling in JS, as well as utilizing local cookie storage |
-| [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder)           | Small greeting helper                            | Writing basic functions                                                       |
-| [Temperature Converter](https://roadmap.sh/projects/js-temperature-converter) | Temperature Converter                            | Basic functions & formatting                                                  |
-| [Number Checker](https://roadmap.sh/projects/js-number-checker)               | Checks properties of a number and returns an obj | Basic operators                                                               |
-| [String Formatter](https://roadmap.sh/projects/js-string-formatter)           | Formats first and lastname.                      | String methods                                                                |
-| [price-calculator](https://roadmap.sh/projects/js-price-calculator)           | Calculates tax and discount using functions      | Basic math functions                                                          |
+| Project                                                                       | Description                                       | Skills                                                                        |
+| ----------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [Simple Tabs](https://roadmap.sh/projects/simple-tabs)                        | Creating simple tab functionality                 | Basic DOM manipulation and event handling in JavaScript                       |
+| [Cookie Consent](https://roadmap.sh/projects/cookie-consent)                  | Create a simple cookie consent overlay            | DOM Manip and event handling in JS, as well as utilizing local cookie storage |
+| [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder)           | Small greeting helper                             | Writing basic functions                                                       |
+| [Temperature Converter](https://roadmap.sh/projects/js-temperature-converter) | Temperature Converter                             | Basic functions & formatting                                                  |
+| [Number Checker](https://roadmap.sh/projects/js-number-checker)               | Checks properties of a number and returns an obj  | Basic operators                                                               |
+| [String Formatter](https://roadmap.sh/projects/js-string-formatter)           | Formats first and lastname.                       | String methods                                                                |
+| [Price Calculator](https://roadmap.sh/projects/js-price-calculator)           | Calculates tax and discount using functions       | Basic math functions                                                          |
+| [Cart Total Calculator](https://roadmap.sh/projects/js-cart-total-calculator) | Summarize cart totals from arrays of item objects | Looping over arrays & common math                                             |
